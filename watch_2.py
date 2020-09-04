@@ -7,3 +7,4 @@ N -= (m * 60)
 print(h, end=':')
 print(int(m / 10), m % 10, sep='', end=':')
 print(int(N / 10), N % 10, sep='')
+
